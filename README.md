@@ -1,1 +1,1 @@
-# AndroidToasterLib
+A simple Android library to show toasts
